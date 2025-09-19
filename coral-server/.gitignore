@@ -56,3 +56,7 @@ bin/
 ### Example directories ###
 examples/camel-search-maths/__pycache__/
 examples/session-posts/**.env.json
+
+examples/camel-search-maths/interface/camel-env
+examples/camel-search-maths/math/camel-env
+examples/camel-search-maths/search/camel-env
