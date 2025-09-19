@@ -1,4 +1,4 @@
 requests==2.32.3
-camel-ai==0.2.46
+camel-ai
 asyncio==3.4.3
 numpy==2.3.3
