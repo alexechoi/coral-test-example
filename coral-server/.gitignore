@@ -60,3 +60,7 @@ examples/session-posts/**.env.json
 examples/camel-search-maths/interface/camel-env
 examples/camel-search-maths/math/camel-env
 examples/camel-search-maths/search/camel-env
+
+examples/camel-search-maths/search/__pycache__
+examples/camel-search-maths/math/__pycache__
+examples/camel-search-maths/interface/__pycache__
